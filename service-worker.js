@@ -3,7 +3,8 @@ self.addEventListener('install', (event) => {
       caches.open('mobile-app-cache').then((cache) => {
         return cache.addAll([
           '/',
-          '/index.html'
+          '/index.html',
+          '/app.js'
         ]);
       })
     );
