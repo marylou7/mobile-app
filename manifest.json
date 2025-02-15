@@ -2,11 +2,11 @@
   "name": "Recipes",
   "short_name": "MobileApp",
   "description": "A mobile app for recipes",
-  "start_url": "/mobile-app/",  
-  "scope": "/mobile-app/",      
+  "start_url": "https://marylou7.github.io/mobile-app/",     
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
+  "orientation": "portrait",
   "icons": [
     {
       "src": "https://via.placeholder.com/192",
